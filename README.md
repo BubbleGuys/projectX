@@ -1,4 +1,3 @@
 # projectX
- vernik03
-Powerful 
+## Successfully added all branches, removed .gitignore due to inability to add .obj
 
