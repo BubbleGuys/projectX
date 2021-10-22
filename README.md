@@ -1,3 +1,0 @@
-# projectX
-Powerful 
-Buhaiev
